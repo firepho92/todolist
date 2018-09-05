@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.elementos{
+  max-height: 300px;
+  box-sizing: border-box;
+  overflow-y: scroll;
+}
+
+.item{
+  margin-top: 0.5em;
+  width: 100%;
+}
+
+.wrapper{
+  border: 1px solid #ACACAC;
+  border-radius: .3em;
+  box-sizing: border-box;
+  margin-top: 2em;
+  padding: 1em;
+  width: 400px;
+}
